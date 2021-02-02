@@ -23,7 +23,7 @@ This very famous game consists of moving Pac-Man, a character who, seen from the
 
 VLC must be installed if you want to hear background music.
 
-* With the terminal:
+### With the terminal:
 
 After downloading the code, go inside the directory called "Pacman-CPP".
 
@@ -33,7 +33,7 @@ Then write in your terminal:
 
 ``./a.out``
 
-* With Qt:
+### With Qt:
 
 After downloading the code, go inside the directory called "Pacman-CPP" and simply open the .pro with Qt.
 
