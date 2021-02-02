@@ -23,7 +23,8 @@ You will have to be in a unix environment
 VLC must be installed if you want to hear background music.
 
 * With the terminal
-After downloading the code, go inside the directory called "Pacman-CPP"
+After downloading the code, go inside the directory called "Pacman-CPP".
+
 Then write in your terminal:
 
 ``g++ main.cpp Nos_fichiers/*.cpp``
