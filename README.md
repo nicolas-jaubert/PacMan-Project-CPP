@@ -27,6 +27,7 @@ After downloading the code, go inside the directory called "Pacman-CPP"
 Then write in your terminal:
 
 ``g++ main.cpp Nos_fichiers/*.cpp``
+
 ``./a.out``
 
 * With Qt
