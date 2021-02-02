@@ -18,7 +18,7 @@ This very famous game consists of moving Pac-Man, a character who, seen from the
 * C
 * QMake
 
-#### How to launch it
+## How to launch it
 *You will have to be in a unix environment.* 
 VLC must be installed if you want to hear background music.
 
